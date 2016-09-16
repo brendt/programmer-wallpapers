@@ -1,0 +1,13 @@
+body {
+    background:#BD4932;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+pre {
+    font-family: Monaco, monospace;
+    color:#fff;
+    font-size:1.5em;
+    flex: 0 1 auto;
+}
