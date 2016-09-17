@@ -1,0 +1,5 @@
+![bash](./dist/bash.png)
+![css](./dist/css.png)
+![html](./dist/html.png)
+![php](./dist/php.png)
+![js](./dist/js.png)
