@@ -6,6 +6,7 @@
 ![php](./dist/php.png)
 ![js](./dist/js.png)
 ![git](./dist/git.png)
+![coffee](./dist/coffee.png)
 
 ## Pull requests
 
