@@ -1,12 +1,13 @@
 ## Examples
 
-![bash](./dist/bash.png)
+![whoami](./dist/whoami.png)
 ![css](./dist/css.png)
 ![html](./dist/html.png)
 ![php](./dist/php.png)
 ![js](./dist/js.png)
 ![git](./dist/git.png)
 ![coffee](./dist/coffee.png)
+![bash](./dist/bash.png)
 
 ## Pull requests
 
